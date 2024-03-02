@@ -1,1 +1,3 @@
 # Hospital-Management-System
+
+A Hospital Management System, developed with React and Spring Boot, seamlessly integrates frontend and backend technologies for efficient healthcare operations. Patient information is dynamically fetched and displayed using React's useState and useEffect hooks, ensuring a responsive and up-to-date user interface. On the backend, a Spring Boot controller provides a RESTful API endpoint for retrieving patient data. The system's simplicity lies in a clean separation of concerns, with React handling the user interface and Spring Boot managing the backend logic. This concise yet powerful integration serves as a foundation for scalable and responsive hospital management applications.
